@@ -1,8 +1,8 @@
-# Daniel Pinheiro Allarcon 👨‍💻
+# Daniel Alarcon Pinheiro👨‍💻
 
 **Desenvolvedor Backend** | 🎓 **Estudante de Sistemas de Informação - IFES**
 
-Olá! Sou o Daniel, tenho 24 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado no backend e aprimorando minhas habilidades em Python e JavaScript. 🚀
+Olá! Sou o Daniel, tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado no backend e aprimorando minhas habilidades em Python e JavaScript. 🚀
 
 - 👨‍🎓📘 Atualmente Cursando: Bacharelado em Sistemas de Informação.
 - 👨‍🎓 Formado: IFES - Técnico em Manutenção em Informática.
