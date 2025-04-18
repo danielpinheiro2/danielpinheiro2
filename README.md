@@ -2,7 +2,7 @@
 
 **Desenvolvedor Backend** | 🎓 **Estudante de Sistemas de Informação - IFES**
 
-Olá! Sou o Daniel, tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado no backend e aprimorando minhas habilidades em Python e JavaScript. 🚀
+<!-- Olá! Sou o Daniel, tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado no backend e aprimorando minhas habilidades em Python e JavaScript. 🚀
 
 - 👨‍🎓📘 Atualmente Cursando: Bacharelado em Sistemas de Informação.
 - 👨‍🎓 Formado: IFES - Técnico em Manutenção em Informática.
@@ -29,4 +29,4 @@ Fique à vontade para explorar meus repositórios e colaborar em projetos! Vamos
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />           
-  </div>
+  </div> -->
